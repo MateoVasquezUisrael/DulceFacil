@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InterfazUsuario", "InterfazUsuario", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiDulceFacil", "WebApiDulceFacil\WebApiDulceFacil.csproj", "{5FD1B366-83D4-4662-9C5E-0D2E2FABDD85}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aplicacion", "Aplicacion", "{F64ED1D3-26A1-44AD-AAD8-58B09FED6A68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DulceFacil.Aplicacion", "DulceFacil.Aplicacion\DulceFacil.Aplicacion.csproj", "{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dominio", "Dominio", "{B8CBB800-10FA-4641-9189-D6B1F4F5718C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DulceFacil.Dominio.Modelos", "DulceFacil.Dominio.Modelos\DulceFacil.Dominio.Modelos.csproj", "{9E49F053-83C4-42F5-868A-0DEDA92791B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infraestructura", "Infraestructura", "{521BD16C-1EE5-4AE9-B14A-4D3204671A33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DulceFacil.Infraestructura.AccesoDatos", "DulceFacil.Infraestructura.AccesoDatos\DulceFacil.Infraestructura.AccesoDatos.csproj", "{059DA85D-BC17-4265-8060-BFB3AA47AFB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD1B366-83D4-4662-9C5E-0D2E2FABDD85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD1B366-83D4-4662-9C5E-0D2E2FABDD85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD1B366-83D4-4662-9C5E-0D2E2FABDD85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD1B366-83D4-4662-9C5E-0D2E2FABDD85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E49F053-83C4-42F5-868A-0DEDA92791B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E49F053-83C4-42F5-868A-0DEDA92791B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E49F053-83C4-42F5-868A-0DEDA92791B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E49F053-83C4-42F5-868A-0DEDA92791B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{059DA85D-BC17-4265-8060-BFB3AA47AFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059DA85D-BC17-4265-8060-BFB3AA47AFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059DA85D-BC17-4265-8060-BFB3AA47AFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059DA85D-BC17-4265-8060-BFB3AA47AFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5FD1B366-83D4-4662-9C5E-0D2E2FABDD85} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306} = {F64ED1D3-26A1-44AD-AAD8-58B09FED6A68}
+		{9E49F053-83C4-42F5-868A-0DEDA92791B9} = {B8CBB800-10FA-4641-9189-D6B1F4F5718C}
+		{059DA85D-BC17-4265-8060-BFB3AA47AFB3} = {521BD16C-1EE5-4AE9-B14A-4D3204671A33}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9696A5E-9BF1-46CF-A4A6-7F4F54AA337A}
+	EndGlobalSection
+EndGlobal

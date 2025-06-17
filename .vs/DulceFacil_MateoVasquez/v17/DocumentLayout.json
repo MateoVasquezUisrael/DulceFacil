@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306}|DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj|d:\\tareas_uni\\desarrollosoft1\\tareasem1_mateovasquez\\dulcefacil_mateovasquez\\dulcefacil.aplicacion\\dulcefacil.aplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306}|DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj|solutionrelative:dulcefacil.aplicacion\\dulcefacil.aplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD1B366-83D4-4662-9C5E-0D2E2FABDD85}|WebApiDulceFacil\\WebApiDulceFacil.csproj|d:\\tareas_uni\\desarrollosoft1\\tareasem1_mateovasquez\\dulcefacil_mateovasquez\\webapidulcefacil\\webapidulcefacil.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FD1B366-83D4-4662-9C5E-0D2E2FABDD85}|WebApiDulceFacil\\WebApiDulceFacil.csproj|solutionrelative:webapidulcefacil\\webapidulcefacil.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059DA85D-BC17-4265-8060-BFB3AA47AFB3}|DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj|d:\\tareas_uni\\desarrollosoft1\\tareasem1_mateovasquez\\dulcefacil_mateovasquez\\dulcefacil.infraestructura.accesodatos\\dulcefacil.infraestructura.accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{059DA85D-BC17-4265-8060-BFB3AA47AFB3}|DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacil.infraestructura.accesodatos\\dulcefacil.infraestructura.accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E49F053-83C4-42F5-868A-0DEDA92791B9}|DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj|d:\\tareas_uni\\desarrollosoft1\\tareasem1_mateovasquez\\dulcefacil_mateovasquez\\dulcefacil.dominio.modelos\\dulcefacil.dominio.modelos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E49F053-83C4-42F5-868A-0DEDA92791B9}|DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj|solutionrelative:dulcefacil.dominio.modelos\\dulcefacil.dominio.modelos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 243,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DulceFacil.Aplicacion.csproj",
+              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj",
+              "RelativeDocumentMoniker": "DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj",
+              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj",
+              "RelativeToolTip": "DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T03:20:28.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DulceFacil.Infraestructura.AccesoDatos.csproj",
+              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj",
+              "RelativeDocumentMoniker": "DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj",
+              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj",
+              "RelativeToolTip": "DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T03:19:40.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DulceFacil.Dominio.Modelos.csproj",
+              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj",
+              "RelativeDocumentMoniker": "DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj",
+              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj",
+              "RelativeToolTip": "DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T03:17:34.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiDulceFacil.csproj",
+              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\WebApiDulceFacil\\WebApiDulceFacil.csproj",
+              "RelativeDocumentMoniker": "WebApiDulceFacil\\WebApiDulceFacil.csproj",
+              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\WebApiDulceFacil\\WebApiDulceFacil.csproj",
+              "RelativeToolTip": "WebApiDulceFacil\\WebApiDulceFacil.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T03:10:54.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
