@@ -1,0 +1,89 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "DulceFacilContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Dominio.Modelos\\Entidades",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "DulceFacil.Infraestructura.AccesoDatos",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[TCentrosDistribucion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TClientes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TClientesDirecciones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TClientesTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TCompras]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TPedidos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TProductos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TProductosCentrosDistribucion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TProductosPuntoVenta]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TPuntosVenta]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TRutas]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseInternalAccessModifiersForSprocsAndFunctions": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false
+}
