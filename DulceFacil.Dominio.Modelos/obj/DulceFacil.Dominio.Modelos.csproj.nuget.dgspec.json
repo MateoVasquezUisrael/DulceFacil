@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj": {}
+    "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj": {}
   },
   "projects": {
-    "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj": {
+    "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj",
+        "projectUniqueName": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj",
         "projectName": "DulceFacil.Dominio.Modelos",
-        "projectPath": "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj",
+        "projectPath": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj",
         "packagesPath": "C:\\Users\\WINDOWS\\.nuget\\packages\\",
-        "outputPath": "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\DulceFacil.Dominio.Modelos\\obj\\",
+        "outputPath": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Dominio.Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

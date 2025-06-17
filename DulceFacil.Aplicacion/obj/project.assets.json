@@ -4769,11 +4769,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj",
+      "projectUniqueName": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj",
       "projectName": "DulceFacil.Aplicacion",
-      "projectPath": "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj",
+      "projectPath": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj",
       "packagesPath": "C:\\Users\\WINDOWS\\.nuget\\packages\\",
-      "outputPath": "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\obj\\",
+      "outputPath": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4795,11 +4795,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj": {
-              "projectPath": "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj"
+            "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj": {
+              "projectPath": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj"
             },
-            "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj": {
-              "projectPath": "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj"
+            "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj": {
+              "projectPath": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj"
             }
           }
         }

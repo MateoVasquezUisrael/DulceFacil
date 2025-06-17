@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hamWMf8VUk0=",
+  "dgSpecHash": "kBt5EyKA6KM=",
   "success": true,
-  "projectFilePath": "D:\\Tareas_Uni\\DesarrolloSoft1\\TareaSem1_MateoVasquez\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj",
+  "projectFilePath": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WINDOWS\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
