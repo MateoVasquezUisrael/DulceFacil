@@ -241,5 +241,10 @@ public partial class DulceFacilContext : DbContext
         OnModelCreatingPartial(modelBuilder);
     }
 
+    internal async Task<object> FindAsync(int id)
+    {
+        throw new NotImplementedException();
+    }
+
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
 }
