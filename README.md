@@ -10,3 +10,6 @@ Entidades y DBContext
 #######################################
 En version 2.1:
 Interfaz IRepository
+#######################################
+En verison 3.1:
+Añadido interfaces y sus implementaciones
