@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DulceFacil.Aplicacion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54d0cab8217be1d64a31d21dfa798012494fe4fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76405c07966d35fa9dc0a25553a8c629a159931d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DulceFacil.Aplicacion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DulceFacil.Aplicacion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

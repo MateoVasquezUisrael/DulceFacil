@@ -1,12 +1,12 @@
-﻿using DulceFacil.Infraestructura.AccesoDatos;
-using DulceFacil.Infraestructura.AccesoDatos.Repositorio;
+﻿using DulceFacil.Dominio.Modelos.Abstracciones;
+using DulceFacil.Infraestructura.AccesoDatos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DulceFacil.Dominio.Modelos.Abstracciones
+namespace DulceFacil.Infraestructura.AccesoDatos.Repositorio
 {
     public class TRutasRepoImpl : RepositoryImpl<TRutas>, ITRutas
     {

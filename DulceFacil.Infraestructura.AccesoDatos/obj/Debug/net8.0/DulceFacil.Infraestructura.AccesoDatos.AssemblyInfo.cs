@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DulceFacil.Infraestructura.AccesoDatos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ca46111a3406352d608f210e2a1c96ecebe6292")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76405c07966d35fa9dc0a25553a8c629a159931d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DulceFacil.Infraestructura.AccesoDatos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DulceFacil.Infraestructura.AccesoDatos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

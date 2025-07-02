@@ -41,7 +41,7 @@ public partial class DulceFacilContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Data Source=DESKTOP-NCNTGBP\\MIPRIMERSQL2024;Initial Catalog=DulceFacil;Integrated Security=True");
+        => optionsBuilder.UseSqlServer("Data Source=DESKTOP-NCNTGBP\\MIPRIMERSQL2024;Initial Catalog=DulceFacil;Integrated Security=True; TrustServerCertificate=True;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -49,7 +49,6 @@ public partial class DulceFacilContext : DbContext
         {
             entity.HasKey(e => e.CentroDistribucionId).HasName("PK_CentroDistribucionId_in_TCentrosDistribucion");
 
-            entity.Property(e => e.CentroDistribucionId).ValueGeneratedNever();
             entity.Property(e => e.CentroDistribucionCiudad)
                 .IsRequired()
                 .HasMaxLength(20)
@@ -66,7 +65,6 @@ public partial class DulceFacilContext : DbContext
 
             entity.HasIndex(e => e.ClienteCedula, "UN_ClienteCedula_in_TClientes").IsUnique();
 
-            entity.Property(e => e.ClienteId).ValueGeneratedNever();
             entity.Property(e => e.ClienteApellido)
                 .IsRequired()
                 .HasMaxLength(45)
@@ -112,7 +110,6 @@ public partial class DulceFacilContext : DbContext
         {
             entity.HasKey(e => e.ClienteTipoId).HasName("PK_ClienteTipoId_in_TClientesTipo");
 
-            entity.Property(e => e.ClienteTipoId).ValueGeneratedNever();
             entity.Property(e => e.ClienteTipoDescrip)
                 .HasMaxLength(45)
                 .IsUnicode(false);
@@ -128,7 +125,6 @@ public partial class DulceFacilContext : DbContext
 
             entity.HasIndex(e => e.CompraCodigoUnico, "UQ__TCompras__AAFCC99B1172EE02").IsUnique();
 
-            entity.Property(e => e.CompraId).ValueGeneratedNever();
             entity.Property(e => e.CompraCodigoUnico)
                 .IsRequired()
                 .HasMaxLength(15)
@@ -228,7 +224,6 @@ public partial class DulceFacilContext : DbContext
         {
             entity.HasKey(e => e.RutaId).HasName("PK_RutaId_in_TRutas");
 
-            entity.Property(e => e.RutaId).ValueGeneratedNever();
             entity.Property(e => e.RutaDetalles)
                 .HasMaxLength(450)
                 .IsUnicode(false);
@@ -239,11 +234,6 @@ public partial class DulceFacilContext : DbContext
         });
 
         OnModelCreatingPartial(modelBuilder);
-    }
-
-    internal async Task<object> FindAsync(int id)
-    {
-        throw new NotImplementedException();
     }
 
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);

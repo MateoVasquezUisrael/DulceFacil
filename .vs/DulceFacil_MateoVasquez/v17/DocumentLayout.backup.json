@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{059DA85D-BC17-4265-8060-BFB3AA47AFB3}|DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj|d:\\tareas_uni\\desarrollosoft1\\dulcefacil_mateovasquez\\dulcefacil.infraestructura.accesodatos\\repositorio\\tproductosrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{059DA85D-BC17-4265-8060-BFB3AA47AFB3}|DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacil.infraestructura.accesodatos\\repositorio\\tproductosrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306}|DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj|d:\\tareas_uni\\desarrollosoft1\\dulcefacil_mateovasquez\\dulcefacil.aplicacion\\serviciosimpl\\tclientesserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306}|DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj|solutionrelative:dulcefacil.aplicacion\\serviciosimpl\\tclientesserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{059DA85D-BC17-4265-8060-BFB3AA47AFB3}|DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj|d:\\tareas_uni\\desarrollosoft1\\dulcefacil_mateovasquez\\dulcefacil.infraestructura.accesodatos\\repositorio\\tproductospuntoventarepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{059DA85D-BC17-4265-8060-BFB3AA47AFB3}|DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacil.infraestructura.accesodatos\\repositorio\\tproductospuntoventarepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306}|DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj|d:\\tareas_uni\\desarrollosoft1\\dulcefacil_mateovasquez\\dulcefacil.aplicacion\\serviciosimpl\\tclientestiposerviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306}|DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj|solutionrelative:dulcefacil.aplicacion\\serviciosimpl\\tclientestiposerviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{059DA85D-BC17-4265-8060-BFB3AA47AFB3}|DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj|d:\\tareas_uni\\desarrollosoft1\\dulcefacil_mateovasquez\\dulcefacil.infraestructura.accesodatos\\repositorio\\tproductoscentrosdistribucionrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{059DA85D-BC17-4265-8060-BFB3AA47AFB3}|DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacil.infraestructura.accesodatos\\repositorio\\tproductoscentrosdistribucionrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306}|DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj|d:\\tareas_uni\\desarrollosoft1\\dulcefacil_mateovasquez\\dulcefacil.aplicacion\\serviciosimpl\\trutasserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306}|DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj|solutionrelative:dulcefacil.aplicacion\\serviciosimpl\\trutasserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{059DA85D-BC17-4265-8060-BFB3AA47AFB3}|DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj|d:\\tareas_uni\\desarrollosoft1\\dulcefacil_mateovasquez\\dulcefacil.infraestructura.accesodatos\\repositorio\\tcomprasrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{059DA85D-BC17-4265-8060-BFB3AA47AFB3}|DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacil.infraestructura.accesodatos\\repositorio\\tcomprasrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306}|DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj|d:\\tareas_uni\\desarrollosoft1\\dulcefacil_mateovasquez\\dulcefacil.aplicacion\\servicios\\itclientesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306}|DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj|solutionrelative:dulcefacil.aplicacion\\servicios\\itclientesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{059DA85D-BC17-4265-8060-BFB3AA47AFB3}|DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj|d:\\tareas_uni\\desarrollosoft1\\dulcefacil_mateovasquez\\dulcefacil.infraestructura.accesodatos\\repositorio\\tclientestiporepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{059DA85D-BC17-4265-8060-BFB3AA47AFB3}|DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacil.infraestructura.accesodatos\\repositorio\\tclientestiporepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306}|DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj|d:\\tareas_uni\\desarrollosoft1\\dulcefacil_mateovasquez\\dulcefacil.aplicacion\\servicios\\itclientestiposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306}|DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj|solutionrelative:dulcefacil.aplicacion\\servicios\\itclientestiposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{059DA85D-BC17-4265-8060-BFB3AA47AFB3}|DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj|d:\\tareas_uni\\desarrollosoft1\\dulcefacil_mateovasquez\\dulcefacil.infraestructura.accesodatos\\repositorio\\tclientesdireccionesrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{059DA85D-BC17-4265-8060-BFB3AA47AFB3}|DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacil.infraestructura.accesodatos\\repositorio\\tclientesdireccionesrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306}|DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj|d:\\tareas_uni\\desarrollosoft1\\dulcefacil_mateovasquez\\dulcefacil.aplicacion\\serviciosimpl\\serviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5DF6CF4-0DBD-42AE-9CB3-AECB30632306}|DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj|solutionrelative:dulcefacil.aplicacion\\serviciosimpl\\serviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059DA85D-BC17-4265-8060-BFB3AA47AFB3}|DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj|d:\\tareas_uni\\desarrollosoft1\\dulcefacil_mateovasquez\\dulcefacil.infraestructura.accesodatos\\repositorio\\repositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059DA85D-BC17-4265-8060-BFB3AA47AFB3}|DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacil.infraestructura.accesodatos\\repositorio\\repositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D5BBD3-2C57-47DD-82DA-2331E2627C3E}|TestUnitarios\\TestUnitarios.csproj|d:\\tareas_uni\\desarrollosoft1\\dulcefacil_mateovasquez\\testunitarios\\pruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D5BBD3-2C57-47DD-82DA-2331E2627C3E}|TestUnitarios\\TestUnitarios.csproj|solutionrelative:testunitarios\\pruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E49F053-83C4-42F5-868A-0DEDA92791B9}|DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj|d:\\tareas_uni\\desarrollosoft1\\dulcefacil_mateovasquez\\dulcefacil.dominio.modelos\\abstracciones\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E49F053-83C4-42F5-868A-0DEDA92791B9}|DulceFacil.Dominio.Modelos\\DulceFacil.Dominio.Modelos.csproj|solutionrelative:dulcefacil.dominio.modelos\\abstracciones\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059DA85D-BC17-4265-8060-BFB3AA47AFB3}|DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj|d:\\tareas_uni\\desarrollosoft1\\dulcefacil_mateovasquez\\dulcefacil.infraestructura.accesodatos\\repositorio\\tclientesrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059DA85D-BC17-4265-8060-BFB3AA47AFB3}|DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacil.infraestructura.accesodatos\\repositorio\\tclientesrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +50,58 @@
       "DocumentGroups": [
         {
           "DockedHeight": 243,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TProductosPuntoVentaRepoImpl.cs",
-              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TProductosPuntoVentaRepoImpl.cs",
-              "RelativeDocumentMoniker": "DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TProductosPuntoVentaRepoImpl.cs",
-              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TProductosPuntoVentaRepoImpl.cs",
-              "RelativeToolTip": "DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TProductosPuntoVentaRepoImpl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Title": "TClientesTipoServiceImpl.cs",
+              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\ServiciosImpl\\TClientesTipoServiceImpl.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Aplicacion\\ServiciosImpl\\TClientesTipoServiceImpl.cs",
+              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\ServiciosImpl\\TClientesTipoServiceImpl.cs",
+              "RelativeToolTip": "DulceFacil.Aplicacion\\ServiciosImpl\\TClientesTipoServiceImpl.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T03:38:24.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TProductosCentrosDistribucionRepoImpl.cs",
-              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TProductosCentrosDistribucionRepoImpl.cs",
-              "RelativeDocumentMoniker": "DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TProductosCentrosDistribucionRepoImpl.cs",
-              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TProductosCentrosDistribucionRepoImpl.cs",
-              "RelativeToolTip": "DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TProductosCentrosDistribucionRepoImpl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T03:37:55.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TComprasRepoImpl.cs",
-              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TComprasRepoImpl.cs",
-              "RelativeDocumentMoniker": "DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TComprasRepoImpl.cs",
-              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TComprasRepoImpl.cs",
-              "RelativeToolTip": "DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TComprasRepoImpl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T03:37:05.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TClientesTipoRepoImpl.cs",
-              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TClientesTipoRepoImpl.cs",
-              "RelativeDocumentMoniker": "DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TClientesTipoRepoImpl.cs",
-              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TClientesTipoRepoImpl.cs",
-              "RelativeToolTip": "DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TClientesTipoRepoImpl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T03:36:39.01Z",
+              "WhenOpened": "2025-07-02T20:59:43.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TProductosRepoImpl.cs",
-              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TProductosRepoImpl.cs",
-              "RelativeDocumentMoniker": "DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TProductosRepoImpl.cs",
-              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TProductosRepoImpl.cs",
-              "RelativeToolTip": "DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TProductosRepoImpl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "Title": "TClientesServiceImpl.cs",
+              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\ServiciosImpl\\TClientesServiceImpl.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Aplicacion\\ServiciosImpl\\TClientesServiceImpl.cs",
+              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\ServiciosImpl\\TClientesServiceImpl.cs",
+              "RelativeToolTip": "DulceFacil.Aplicacion\\ServiciosImpl\\TClientesServiceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T03:33:29.232Z",
+              "WhenOpened": "2025-07-02T20:57:50.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TClientesDireccionesRepoImpl.cs",
-              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TClientesDireccionesRepoImpl.cs",
-              "RelativeDocumentMoniker": "DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TClientesDireccionesRepoImpl.cs",
-              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TClientesDireccionesRepoImpl.cs",
-              "RelativeToolTip": "DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TClientesDireccionesRepoImpl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ITClientesService.cs",
+              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\Servicios\\ITClientesService.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Aplicacion\\Servicios\\ITClientesService.cs",
+              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\Servicios\\ITClientesService.cs",
+              "RelativeToolTip": "DulceFacil.Aplicacion\\Servicios\\ITClientesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T03:34:42.447Z",
+              "WhenOpened": "2025-07-02T20:57:46.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITClientesTipoService.cs",
+              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\Servicios\\ITClientesTipoService.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Aplicacion\\Servicios\\ITClientesTipoService.cs",
+              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\Servicios\\ITClientesTipoService.cs",
+              "RelativeToolTip": "DulceFacil.Aplicacion\\Servicios\\ITClientesTipoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T20:57:32.708Z",
               "EditorCaption": ""
             },
             {
@@ -129,6 +119,90 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TRutasServiceImpl.cs",
+              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\ServiciosImpl\\TRutasServiceImpl.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Aplicacion\\ServiciosImpl\\TRutasServiceImpl.cs",
+              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\ServiciosImpl\\TRutasServiceImpl.cs",
+              "RelativeToolTip": "DulceFacil.Aplicacion\\ServiciosImpl\\TRutasServiceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:17:09.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceImpl.cs",
+              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\ServiciosImpl\\ServiceImpl.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Aplicacion\\ServiciosImpl\\ServiceImpl.cs",
+              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Aplicacion\\ServiciosImpl\\ServiceImpl.cs",
+              "RelativeToolTip": "DulceFacil.Aplicacion\\ServiciosImpl\\ServiceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T20:35:18.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Dominio.Modelos\\Abstracciones\\IRepository.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Dominio.Modelos\\Abstracciones\\IRepository.cs",
+              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Dominio.Modelos\\Abstracciones\\IRepository.cs",
+              "RelativeToolTip": "DulceFacil.Dominio.Modelos\\Abstracciones\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T00:26:06.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pruebas.cs",
+              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\TestUnitarios\\Pruebas.cs",
+              "RelativeDocumentMoniker": "TestUnitarios\\Pruebas.cs",
+              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\TestUnitarios\\Pruebas.cs",
+              "RelativeToolTip": "TestUnitarios\\Pruebas.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:57:14.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryImpl.cs",
+              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\RepositoryImpl.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\RepositoryImpl.cs",
+              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\RepositoryImpl.cs",
+              "RelativeToolTip": "DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\RepositoryImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:18:39.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TClientesRepoImpl.cs",
+              "DocumentMoniker": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TClientesRepoImpl.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TClientesRepoImpl.cs",
+              "ToolTip": "D:\\Tareas_Uni\\DesarrolloSoft1\\DulceFacil_MateoVasquez\\DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TClientesRepoImpl.cs",
+              "RelativeToolTip": "DulceFacil.Infraestructura.AccesoDatos\\Repositorio\\TClientesRepoImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T00:45:25.673Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
